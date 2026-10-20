@@ -52,4 +52,4 @@ Replace `your_database` with your actual database name.
 
 ## 👩‍💻 Author
 
-**sujal suthar**
+**Omen Agarwal**
